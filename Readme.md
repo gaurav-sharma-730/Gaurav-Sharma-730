@@ -4,19 +4,19 @@
 <img align="right" src="giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-jangid-730&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-jangid-730" /> </p>
 
-- 🔭 I’m currently working on [Project name](project link)
+- 🔭 I’m currently working on [**Malware Analysis**](https://github.com/Gaurav-Jangid-730/Malware_Analysis_Lab.git)
 
 - 🌱 I’m currently learning **CCNA , Penetration testing**
 
-- 👯 I’m looking to collaborate on [project name](project link)
+- 👯 I’m looking to collaborate on My Other Projects
 
-- 🤝 I’m looking for help with [project name](project link)
+- 🤝 I’m looking for help with in my new Projects
 
 - 💬 Ask me about **Networks and Security**
 
 - 📫 How to reach me **gauravjangid7300@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences Resume
 
 - ⚡ Fun fact **I Love To Automate Tasks**
 
