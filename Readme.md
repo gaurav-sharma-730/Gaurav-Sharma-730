@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">Passionate about cybersecurity, skilled in ethical hacking, network security, and constantly exploring new ways to safeguard digital systems.</h3>
 <img align="right" src="giphy.webp">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png" alt="Your Image Badge" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-jangid-730&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-jangid-730" /> </p>
 
 - 🔭 I’m currently working on [**Malware Analysis**](https://github.com/Gaurav-Jangid-730/Malware_Analysis_Lab.git)
