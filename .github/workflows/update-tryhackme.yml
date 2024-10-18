@@ -22,6 +22,14 @@ jobs:
           pip install requests
 
       - name: Run the script
-        env:
-          GITHUB_TOKEN: ${{ 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 }}  # Use your secret here
         run: python update_tryhackme.py  # Use the correct file name
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "Gaurav-Jangid-730"
+          git config --local user.email "gauravjangid7300@gmail.com"
+          git add README.md
+          git commit -m "Update README with new profile image" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ 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 }}  # Use your secret token
