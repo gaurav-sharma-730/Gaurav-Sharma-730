@@ -46,7 +46,7 @@ def update_readme_with_new_image_url():
         content = file.read()
 
     # Use regex to replace the old image URL with the new one
-    updated_content = re.sub(r'(https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png\?v=\d+)', new_image_url, content)
+    updated_content = re.sub(r'(<img\s+src=")(https://tryhackme-badges\.s3\.amazonaws\.com/Gauravjangid\.png\?v=\d+)(")', r'\1' + new_image_url + r'\3', content)
 
     # Write the updated content back to README.md
     with open(readme_path, 'w') as file:
