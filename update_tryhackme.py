@@ -81,8 +81,12 @@ def commit_changes():
         # Commit the changes
         subprocess.run(["git", "commit", "-m", "Update README with new badge image"], check=True)
 
+        # Use a Personal Access Token (replace 'YOUR_TOKEN' with your actual token)
+        pat = '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'  # Replace with your actual Personal Access Token
+        repo_url = f'https://{pat}@github.com/Gaurav-Jangid-730/Gaurav-Jangid-730.git'
+        
         # Push to origin main
-        subprocess.run(["git", "push", "origin", "main"], check=True)
+        subprocess.run(["git", "push", repo_url, "main"], check=True)
 
         print("Changes committed and pushed to origin main successfully!")
     except subprocess.CalledProcessError as e:
