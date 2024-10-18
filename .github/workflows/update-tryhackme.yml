@@ -22,4 +22,4 @@ jobs:
           pip install requests
 
       - name: Run the script
-        run: python update_profile_image.py  # Make sure your script is named correctly
+        run: python update_tryhackme.py  # Use the correct file name
