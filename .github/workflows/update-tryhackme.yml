@@ -25,8 +25,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "Gaurav-Jangid-730"
+          git config --local user.email "gauravjangid7300@gmail.com"
           git add README.md
           git commit -m "Update README with new profile image" || echo "No changes to commit"
           git push
