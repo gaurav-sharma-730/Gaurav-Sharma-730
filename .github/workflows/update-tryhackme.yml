@@ -24,16 +24,3 @@ jobs:
 
       - name: Run update_tryhackme.py
         run: python update_tryhackme.py
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "your_email@example.com"  # Replace with your email
-          git config --local user.name "Gaurav-Jangid-730"  # Replace with your name
-          git add .
-          git commit -m "Update TryHackMe data" || echo "No changes to commit"
-
-      - name: Push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.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 }}  # This is automatically provided by GitHub
-        run: |
-          git push origin main  # Change 'main' to your default branch if necessary
