@@ -1,4 +1,5 @@
 name: Update Profile Image
+
 on:
   push:
     branches:
@@ -21,7 +22,7 @@ jobs:
           pip install requests
 
       - name: Run the script
-        run: python update_tryhackme.py  # Use the correct file name
+        run: python update_tryhackme.py  # Ensure this is the correct file name
 
       - name: Commit and push changes
         run: |
@@ -30,6 +31,3 @@ jobs:
           git add Readme.md
           git commit -m "Update README with new profile image" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.MyProfile }}  # Replace with your secret name
-
