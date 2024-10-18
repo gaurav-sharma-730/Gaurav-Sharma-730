@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --local user.name "Gaurav-Jangid-730"
           git config --local user.email "gauravjangid7300@gmail.com"
-          git add README.md  # Make sure to specify the correct README file name
+          git add Readme.md  # Make sure to specify the correct README file name
           git commit -m "Update profile image URL" || echo "No changes to commit"
 
       - name: Push changes
