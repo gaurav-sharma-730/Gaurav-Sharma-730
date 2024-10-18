@@ -1,5 +1,7 @@
 import requests
 import json
+import time
+import re
 
 # Define the URL for the image regeneration
 url = "https://tryhackme.com/api/v2/badges/public-profile/image"
@@ -29,9 +31,28 @@ def update_profile_image():
     response = requests.put(url, headers=headers, data=json.dumps(payload))
     if response.status_code == 200:
         print("Profile image updated successfully!")
+        update_readme_with_new_image_url()  # Call to update the README.md
     else:
         print(f"Failed to update image: {response.status_code}, {response.text}")
 
+# Function to update README.md with new image URL
+def update_readme_with_new_image_url():
+    readme_path = 'README.md'  # Path to your README.md file
+    cache_buster = int(time.time())  # Generate a cache-busting parameter based on the current timestamp
+    new_image_url = f"https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png?v={cache_buster}"
+    
+    # Read the README.md file
+    with open(readme_path, 'r') as file:
+        content = file.read()
+
+    # Use regex to replace the old image URL with the new one
+    updated_content = re.sub(r'(https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png\?v=\d+)', new_image_url, content)
+
+    # Write the updated content back to README.md
+    with open(readme_path, 'w') as file:
+        file.write(updated_content)
+
+    print("README.md updated with the new image URL.")
+
 # Call the function to update the profile image immediately
 update_profile_image()
-
