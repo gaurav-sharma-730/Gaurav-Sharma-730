@@ -1,13 +1,13 @@
-name: Update Profile Image
+name: Update TryHackMe
 
 on:
-  push:
-    branches:
-      - main  # Change this to your default branch
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC
 
 jobs:
-  update-image:
+  update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -15,19 +15,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Specify your Python version
+          python-version: '3.x'  # Change to your required Python version
 
       - name: Install dependencies
         run: |
-          pip install requests
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # If you have any dependencies
 
-      - name: Run the script
-        run: python update_tryhackme.py  # Ensure this is the correct file name
+      - name: Run update_tryhackme.py
+        run: python update_tryhackme.py
 
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
-          git config --local user.name "Gaurav-Jangid-730"
-          git config --local user.email "gauravjangid7300@gmail.com"
-          git add Readme.md
-          git commit -m "Update README with new profile image" || echo "No changes to commit"
-          git push
+          git config --local user.email "gauravjangid7300@gmail.com"  # Replace with your email
+          git config --local user.name "Gaurav-Jangid-730"  # Replace with your name
+          git add .
+          git commit -m "Update TryHackMe data" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push origin main  # Change 'main' to your default branch if necessary
