@@ -37,7 +37,7 @@ def update_profile_image():
 
 # Function to update README.md with new image URL
 def update_readme_with_new_image_url():
-    readme_path = 'README.md'  # Path to your README.md file
+    readme_path = 'Readme.md'  # Path to your README.md file
     cache_buster = int(time.time())  # Generate a cache-busting parameter based on the current timestamp
     new_image_url = f"https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png?v={cache_buster}"
     
