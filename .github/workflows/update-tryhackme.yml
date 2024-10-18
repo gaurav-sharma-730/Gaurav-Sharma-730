@@ -27,7 +27,7 @@ jobs:
         run: |
           git config --local user.name "Gaurav-Jangid-730"
           git config --local user.email "gauravjangid7300@gmail.com"
-          git add README.md
+          git add Readme.md
           git commit -m "Update README with new profile image" || echo "No changes to commit"
           git push
         env:
