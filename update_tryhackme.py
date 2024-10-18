@@ -1,27 +1,33 @@
 import requests
-import json
 
-# Replace with your TryHackMe public ID
-tryhackme_public_id = '1855659'
+# Fetch data from TryHackMe API
+THM_PROFILE_URL = "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1855659"
+response = requests.get(THM_PROFILE_URL)
+data = response.json()
 
-# Fetch TryHackMe profile data
-url = f'https://tryhackme.com/api/v2/badges/public-profile?userPublicId={tryhackme_public_id}'
-response = requests.get(url)
+# Extract relevant data (e.g., badges)
+badge_count = len(data['badges'])
+badges = data['badges']
 
-if response.status_code == 200:
-    badge_data = response.json()
+# Create content to be inserted in README
+thm_stats = f"- [View My TryHackMe Profile](https://tryhackme.com/p/1855659)\n"
+thm_stats += f"- Total Badges: {badge_count}\n\n"
 
-    # You can extract specific details like badges or stats from the API response
-    total_badges = len(badge_data['badges'])
-    profile_url = f'https://tryhackme.com/p/{tryhackme_public_id}'
+for badge in badges:
+    thm_stats += f"  - {badge['name']}: {badge['description']}\n"
 
-    # Update README.md file
-    with open("README.md", "w") as file:
-        file.write("# Gaurav Sharma's GitHub Profile\n\n")
-        file.write("## TryHackMe Profile Stats\n")
-        file.write(f"- [View My TryHackMe Profile]({profile_url})\n")
-        file.write(f"- Total Badges: {total_badges}\n")
-        for badge in badge_data['badges']:
-            file.write(f"  - {badge['name']}: {badge['description']}\n")
-else:
-    print(f"Failed to fetch TryHackMe data: {response.status_code}")
+# Read the existing README.md file
+with open('README.md', 'r') as file:
+    readme_content = file.read()
+
+# Replace the placeholder with the new content
+start_marker = "<!-- TRYHACKME-STATS -->"
+end_marker = "<!-- TRYHACKME-STATS-END -->"
+updated_content = f"{start_marker}\n{thm_stats}\n{end_marker}"
+
+# Replace the placeholder section in README.md
+new_readme_content = readme_content.split(start_marker)[0] + updated_content + readme_content.split(end_marker)[1]
+
+# Write the updated content back to README.md
+with open('README.md', 'w') as file:
+    file.write(new_readme_content)
