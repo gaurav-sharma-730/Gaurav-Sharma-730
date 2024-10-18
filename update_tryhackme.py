@@ -68,22 +68,26 @@ def update_readme_with_new_image_url():
     else:
         print("No changes made to README.md.")
 
-# Function to commit changes to the Git repository
+# Function to commit changes to the Git repository and push to origin main
 def commit_changes():
     try:
         # Configure Git user
         subprocess.run(["git", "config", "--local", "user.email", "gauravjangid7300@gmail.com"], check=True)
-        subprocess.run(["git", "config", "--local", "user.name", "Gaurav-Jangid-730"], check=True)
-
-        # Add changes to Git
+        subprocess.run(["git", "config", "--local", "user.name", "Gaurav Sharma"], check=True)
+        
+        # Stage the changes
         subprocess.run(["git", "add", "Readme.md"], check=True)
-        
-        # Commit changes with a message
-        subprocess.run(["git", "commit", "-m", "Updated profile image and README.md with new image URL."], check=True)
-        
-        print("Changes committed to Git repository.")
-    except subprocess.CalledProcessError as e:
-        print(f"An error occurred while committing changes: {e}")
 
-# Call the function to update the profile image immediately
-update_profile_image()
+        # Commit the changes
+        subprocess.run(["git", "commit", "-m", "Update README with new badge image"], check=True)
+
+        # Push to origin main
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+
+        print("Changes committed and pushed to origin main successfully!")
+    except subprocess.CalledProcessError as e:
+        print(f"An error occurred during Git operations: {e}")
+
+# Main execution
+if __name__ == "__main__":
+    update_profile_image()
