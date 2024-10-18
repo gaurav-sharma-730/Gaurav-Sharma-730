@@ -72,8 +72,8 @@ def update_readme_with_new_image_url():
 def commit_changes():
     try:
         # Configure Git user
-        subprocess.run(["git", "config", "--local", "user.email", "your_email@example.com"], check=True)
-        subprocess.run(["git", "config", "--local", "user.name", "Your Name"], check=True)
+        subprocess.run(["git", "config", "--local", "user.email", "gauravjangid7300@gmail.com"], check=True)
+        subprocess.run(["git", "config", "--local", "user.name", "Gaurav-Jangid-730"], check=True)
 
         # Add changes to Git
         subprocess.run(["git", "add", "Readme.md"], check=True)
