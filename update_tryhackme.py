@@ -45,14 +45,25 @@ def update_readme_with_new_image_url():
     with open(readme_path, 'r') as file:
         content = file.read()
 
-    # Use regex to replace the old image URL with the new one
-    updated_content = re.sub(r'(<img\s+src=")(https://tryhackme-badges\.s3\.amazonaws\.com/Gauravjangid\.png\?v=\d+)(")', r'\1' + new_image_url + r'\3', content)
+    print("Original README content:")
+    print(content)  # Debug: Print original content
 
-    # Write the updated content back to README.md
-    with open(readme_path, 'w') as file:
-        file.write(updated_content)
+    # Use regex to replace the old image URL in the <img> tag
+    updated_content = re.sub(
+        r'(<img\s+src=")(https://tryhackme-badges\.s3\.amazonaws\.com/Gauravjangid\.png\?v=\d+)(")',
+        r'\1' + new_image_url + r'\3',
+        content
+    )
 
-    print("README.md updated with the new image URL.")
+    print("Updated README content:")
+    print(updated_content)  # Debug: Print updated content
 
+    # Write the updated content back to README.md if there are changes
+    if content != updated_content:
+        with open(readme_path, 'w') as file:
+            file.write(updated_content)
+        print("README.md updated with the new image URL.")
+    else:
+        print("No changes made to README.md.")
 # Call the function to update the profile image immediately
 update_profile_image()
