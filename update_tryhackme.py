@@ -82,13 +82,16 @@ def commit_changes():
         subprocess.run(["git", "commit", "-m", "Update README with new badge image"], check=True)
 
         # Use a Personal Access Token (replace 'YOUR_TOKEN' with your actual token)
-        pat = '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'  # Replace with your actual Personal Access Token
+        pat = 'YOUR_TOKEN'  # Replace with your actual Personal Access Token
         repo_url = f'https://{pat}@github.com/Gaurav-Jangid-730/Gaurav-Jangid-730.git'
         
         # Push to origin main
-        subprocess.run(["git", "push", repo_url, "main"], check=True)
-
-        print("Changes committed and pushed to origin main successfully!")
+        push_result = subprocess.run(["git", "push", repo_url, "main"], check=False, text=True, capture_output=True)
+        
+        if push_result.returncode == 0:
+            print("Changes committed and pushed to origin main successfully!")
+        else:
+            print(f"Failed to push changes: {push_result.stderr}")  # Capture and print error message
     except subprocess.CalledProcessError as e:
         print(f"An error occurred during Git operations: {e}")
 
