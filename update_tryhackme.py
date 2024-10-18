@@ -2,6 +2,7 @@ import requests
 import json
 import time
 import re
+import subprocess
 
 # Define the URL for the image regeneration
 url = "https://tryhackme.com/api/v2/badges/public-profile/image"
@@ -63,7 +64,26 @@ def update_readme_with_new_image_url():
         with open(readme_path, 'w') as file:
             file.write(updated_content)
         print("README.md updated with the new image URL.")
+        commit_changes()  # Commit the changes to the Git repository
     else:
         print("No changes made to README.md.")
+
+# Function to commit changes to the Git repository
+def commit_changes():
+    try:
+        # Configure Git user
+        subprocess.run(["git", "config", "--local", "user.email", "your_email@example.com"], check=True)
+        subprocess.run(["git", "config", "--local", "user.name", "Your Name"], check=True)
+
+        # Add changes to Git
+        subprocess.run(["git", "add", "Readme.md"], check=True)
+        
+        # Commit changes with a message
+        subprocess.run(["git", "commit", "-m", "Updated profile image and README.md with new image URL."], check=True)
+        
+        print("Changes committed to Git repository.")
+    except subprocess.CalledProcessError as e:
+        print(f"An error occurred while committing changes: {e}")
+
 # Call the function to update the profile image immediately
 update_profile_image()
