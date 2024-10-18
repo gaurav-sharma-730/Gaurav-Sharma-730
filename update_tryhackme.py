@@ -74,25 +74,27 @@ def commit_changes():
         # Configure Git user
         subprocess.run(["git", "config", "--local", "user.email", "gauravjangid7300@gmail.com"], check=True)
         subprocess.run(["git", "config", "--local", "user.name", "Gaurav Sharma"], check=True)
-        
+
         # Stage the changes
         subprocess.run(["git", "add", "Readme.md"], check=True)
 
         # Commit the changes
         subprocess.run(["git", "commit", "-m", "Update README with new badge image"], check=True)
 
-        # Use a Personal Access Token (replace 'YOUR_TOKEN' with your actual token)
+        # Use the SSH URL for pushing
         repo_url = 'git@github.com:Gaurav-Jangid-730/Gaurav-Jangid-730.git'
-        
+
         # Push to origin main
         push_result = subprocess.run(["git", "push", repo_url, "main"], check=False, text=True, capture_output=True)
-        
+
         if push_result.returncode == 0:
             print("Changes committed and pushed to origin main successfully!")
         else:
             print(f"Failed to push changes: {push_result.stderr}")  # Capture and print error message
     except subprocess.CalledProcessError as e:
         print(f"An error occurred during Git operations: {e}")
+    except Exception as e:
+        print("Error during commit or push:", e)
 
 # Main execution
 if __name__ == "__main__":
