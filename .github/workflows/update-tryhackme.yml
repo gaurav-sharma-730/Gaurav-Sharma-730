@@ -31,5 +31,5 @@ jobs:
           git commit -m "Update README with new profile image" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}  # Replace with your secret name
+          GITHUB_TOKEN: ${{ secrets.MyProfile }}  # Replace with your secret name
 
