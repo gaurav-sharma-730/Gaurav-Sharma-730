@@ -19,17 +19,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests  # Add any other dependencies your script requires
+          pip install requests
 
       - name: Run the script
-        run: python update_tryhackme.py  # Ensure this is the correct path to your script
-
-      - name: Commit changes
-        run: |
-          git config --local user.name "Gaurav-Jangid-730"
-          git config --local user.email "gauravjangid7300@gmail.com"
-          git add Readme.md  # Make sure to specify the correct README file name
-          git commit -m "Update profile image URL" || echo "No changes to commit"
-
-      - name: Push changes
-        run: git push
+        env:
+          GITHUB_TOKEN: ${{ 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 }}  # Use your secret here
+        run: python update_tryhackme.py  # Use the correct file name
