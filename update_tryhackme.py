@@ -1,6 +1,5 @@
 import requests
 import json
-import time
 
 # Define the URL for the image regeneration
 url = "https://tryhackme.com/api/v2/badges/public-profile/image"
@@ -33,15 +32,6 @@ def update_profile_image():
     else:
         print(f"Failed to update image: {response.status_code}, {response.text}")
 
-# Schedule the script to run at midnight
-while True:
-    # Get current time
-    current_time = time.localtime()
-    # Check if it's midnight (00:00)
-    if current_time.tm_hour == 0 and current_time.tm_min == 0:
-        update_profile_image()
-        # Wait for a day before checking again
-        time.sleep(86400)  # Sleep for a day
-    else:
-        # Wait for a minute before checking the time again
-        time.sleep(60)  # Sleep for a minute
+# Call the function to update the profile image immediately
+update_profile_image()
+
