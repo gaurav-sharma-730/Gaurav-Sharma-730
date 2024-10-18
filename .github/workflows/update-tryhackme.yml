@@ -19,7 +19,17 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests
+          pip install requests  # Add any other dependencies your script requires
 
       - name: Run the script
-        run: python update_tryhackme.py  # Use the correct file name
+        run: python update_tryhackme.py  # Ensure this is the correct path to your script
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "Gaurav-Jangid-730"
+          git config --local user.email "gauravjangid7300@gmail.com"
+          git add README.md  # Make sure to specify the correct README file name
+          git commit -m "Update profile image URL" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
