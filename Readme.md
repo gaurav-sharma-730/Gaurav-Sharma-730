@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gauravjangid7300@gmail.com**
 
-- 📄 Know about my experiences Resume
+- 📄 Know about my experiences [**Resume**](https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/tree/main/Resume)
 
 - ⚡ Fun fact **I Love To Automate Tasks**
 
