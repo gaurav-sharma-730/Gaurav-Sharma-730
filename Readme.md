@@ -1,39 +1,136 @@
-![logo](Banner.png)
-<h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
-<h3 align="center">Passionate about cybersecurity, skilled in ethical hacking, network security, and constantly exploring new ways to safeguard digital systems.</h3>
-<img align="right" src="giphy.webp">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png?v=1" alt="Your Image Badge" />
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=750&lines=I'm+A+Red+Team+Student,+driven+to+uncover+system+vulnerabilities;A+Computer+Engineering+Student+Passionate+About+Securing+Digital+Landscapes;Hacker+At+Heart,+Constantly+Challenging+And+Pushing+Boundaries;Cybersecurity+Enthusiast+With+A+Focus+On+Proactive+Defense+Strategies;Committed+To+Mastering+The+Art+Of+Ethical+Hacking+And+Network+Security;" alt="Computer Engineering Student, Cybersecurity Student"></a>
+</div>
+<div align="center" >
+<h3>|-------A passionate Cybersecurity Student and Bug hunter from India ------|</h3>
+</div>
+<hr />
+<div align="center" >
+---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img  style="margin: 10px" align="center" src="https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png?v=2" alt="Badge">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">--------
+<hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-jangid-730&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-jangid-730" /> </p>
-
-- 🔭 I’m currently working on [**Malware Analysis**](https://github.com/Gaurav-Jangid-730/Malware_Analysis_Lab.git)
-
-- 🌱 I’m currently learning **CCNA , Penetration testing**
-
-- 👯 I’m looking to collaborate on My Other Projects
-
-- 🤝 I’m looking for help with in my new Projects
-
-- 💬 Ask me about **Networks and Security**
-
-- 📫 How to reach me **gauravjangid7300@gmail.com**
-
-- 📄 Know about my experiences [**Resume**](https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/tree/main/Resume)
-
-- ⚡ Fun fact **I Love To Automate Tasks**
-
-<h3 align="left">Connect with me:</h3>
+<img align="right" src="giphy.webp">
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gauravsharma-coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gauravsharma-coding" height="30" width="40" /></a>
-<a href="https://instagram.com/gaurav_jangid_730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_jangid_730" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gauravjangid7300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gauravjangid7300" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaurav_sharma_730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_sharma_730" height="30" width="40" /></a>
+- 🔭 I’m currently working on <a href="https://github.com/Gaurav-Jangid-730/Malware_Analysis_Lab.git"><b>Malware Analysis</b></a>
 </p>
+<p align="left">
+- 🌱 I’m currently learning <b>CCNA , Penetration testing</b>
+</p>
+<p align="left">
+- 👯 I’m looking to collaborate on My Other Projects
+</p>
+<p align="left">
+- 🤝 I’m looking for help with in my new Projects
+</p>
+<p align="left">
+- 💬 Ask me about <b>Networks and Security</b>
+</p>
+<p align="left">
+- 📫 How to reach me <b>gauravjangid7300@gmail.com</b>
+</p>
+<p align="left">
+- 📄 Know about my experiences <a href="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/tree/main/Resume"><b>Resume</b></a>
+</p>
+<p align="left">
+- ⚡ Fun fact <b>I Love To Automate Tasks</b>
+</p>
+<hr>
+  <pre>
+    Passionate about cybersecurity, skilled in ethical hacking, network security, 
+    and constantly exploring new ways to safeguard digital systems. <a href="https://gaurav-jangid-730.github.io/Portfolio/"><b>HIRE ME</b></a>
+  </pre>
+<hr>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<br />
+<img  alt="coding" width="1800" src="https://github-profile-trophy.vercel.app/?username=Gaurav-Jangid-730&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+<hr>
+<h3 align="center">My Skill Set AND TOOLS</h3>
+<table><tr><td valign="top" width="33%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###  Scripting
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/code.png" alt="code" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/C.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/C++.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/Python.svg" alt="python" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/Bash.svg" alt="Bash" height="50" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-jangid-730&show_icons=true&locale=en&layout=compact" alt="gaurav-jangid-730" /></p>
+</td><td valign="top" width="33%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-jangid-730&show_icons=true&locale=en" alt="gaurav-jangid-730" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-jangid-730&" alt="gaurav-jangid-730" /></p>
+
+### Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/Nmap.png" alt="Nmap" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/docker.svg" alt="docker" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/Github.svg" alt="github" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/git.svg" alt="git" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/john-logo.png" alt="john" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/Cisco.png" alt="cisco" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/kubernites.svg" alt="K8S" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/wiresark.png" alt="wireshark" height="50" />   
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/Python.svg" alt="Pyhton" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/Bash.svg" alt="Bash" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Operating system
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/vmware.png" alt="vm" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/windows.png" alt="Windows" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/linux.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/kali.png" alt="Kali" height="50" />  
+</div>
+
+</td></tr></table>
+
+<hr />
+<div align="center">
+<h3 align="center">🏅 TryHackMe Badges</h3>
+<br />
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/attackingad.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/blue.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/burpsuite.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/careerready.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/hashcracker.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/howthewebworks.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/introtooffensivesecurity.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/introtowebsecurity.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/linux.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/linuxprivesc.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/metasploit.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/mrrobot.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/networkfundamentals.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/owasptop10.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/shieldapprentice.svg" alt="Badges" height="150" width="150" /></a> 
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/streak7.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/swordapprentice.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/webbed.svg" alt="Badges" height="150" width="150" /></a>
+<!-- Add more badges as needed -->
+</div>
+<hr />
+
+<div align="center">
+<p>
+  <h3 align="center">🔗 Connect with Me</h3>
+  <a href="https://linkedin.com/in/gaurav-sharma-cybersecurity" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/gaurav_jangid_730" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/Gaurav-Jangid-730" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://gaurav-jangid-730.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=weblate&logoColor=white" alt="Portfolio" /></a>
+</p>
+</div>
+<hr />
+<div align="center">
+    <h3 align="center">📊 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=gaurav-jangid-730&show_icons=true&theme=radical" alt="Dhanush's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-jangid-730&layout=compact&theme=radical" alt="Top Languages" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-jangid-730&layout=compact&theme=radical" alt="gaurav-jangid-730" />
+</div>
+<hr />
