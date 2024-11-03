@@ -111,6 +111,7 @@
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/owasptop10.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/shieldapprentice.svg" alt="Badges" height="150" width="150" /></a> 
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/streak7.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/streak30.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/swordapprentice.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/webbed.svg" alt="Badges" height="150" width="150" /></a>
 <!-- Add more badges as needed -->
