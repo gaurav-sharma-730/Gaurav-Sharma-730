@@ -50,11 +50,11 @@ def update_readme_with_new_image_url():
     print(content)  # Debug: Print original content
 
     # Use regex to replace the old image URL in the <img> tag
-    updated_content = re.sub(
-        r'(<img\s+src=")(https://tryhackme-badges\.s3\.amazonaws\.com/[^"]+)(\?v=\d+)(")', 
-        r'\1' + new_image_url + r'\4', 
-        content
-    )
+updated_content = re.sub(
+    r'(<img\s+style="margin:\s*10px"\s+align="center"\s+src=")(https://tryhackme-badges\.s3\.amazonaws\.com/[^"]+\?v=\d+)(")', 
+    r'\1' + new_image_url + r'\3', 
+    content
+)
 
     print(updated_content)
     
