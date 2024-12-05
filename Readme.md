@@ -131,9 +131,9 @@
 <hr />
 <div align="center">
     <h3 align="center">📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=gaurav-jangid-730&show_icons=true&theme=radical" alt="Dhanush's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-jangid-730&layout=compact&theme=radical" alt="Top Languages" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-jangid-730&layout=compact&theme=radical" alt="gaurav-jangid-730" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Jangid-730&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=falsel" alt="Gaurav's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Jangid-730&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Jangid-730&theme=shadow_red&hide_border=true" alt="gaurav-jangid-730" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav-Jangid-730/Gaurav-jangid-730/output/github-snake-dark.svg" />
