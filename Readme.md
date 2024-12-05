@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=750&lines=I'm+A+Red+Team+Student,+driven+to+uncover+system+vulnerabilities;A+Computer+Engineering+Student+Passionate+About+Securing+Digital+Landscapes;Hacker+At+Heart,+Constantly+Challenging+And+Pushing+Boundaries;Cybersecurity+Enthusiast+With+A+Focus+On+Proactive+Defense+Strategies;Committed+To+Mastering+The+Art+Of+Ethical+Hacking+And+Network+Security;" alt="Computer Engineering Student, Cybersecurity Student"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9C0707FF&size=20&center=true&vCenter=true&width=750&lines=I'm+A+Red+Team+Student,+driven+to+uncover+system+vulnerabilities;A+Computer+Engineering+Student+Passionate+About+Securing+Digital+Landscapes;Hacker+At+Heart,+Constantly+Challenging+And+Pushing+Boundaries;Cybersecurity+Enthusiast+With+A+Focus+On+Proactive+Defense+Strategies;Committed+To+Mastering+The+Art+Of+Ethical+Hacking+And+Network+Security;" alt="Computer Engineering Student, Cybersecurity Student"></a>
 </div>
 <div align="center" >
 <h3>|-------A passionate Cybersecurity Student and Bug hunter from India ------|</h3>
