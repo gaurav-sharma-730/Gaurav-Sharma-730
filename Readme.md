@@ -135,4 +135,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-jangid-730&layout=compact&theme=radical" alt="Top Languages" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-jangid-730&layout=compact&theme=radical" alt="gaurav-jangid-730" />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav-Jangid-730/Gaurav-jangid-730/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav-Jangid-730/Gaurav-jangid-730/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gaurav-Jangid-730/Gaurav-Jangid-730/output/github-snake.svg" />
+</picture>
 <hr />
