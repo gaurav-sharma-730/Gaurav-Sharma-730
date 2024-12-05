@@ -72,6 +72,8 @@ def update_readme_with_new_image_url():
 # Function to commit changes to GitHub
 def commit_changes():
     # Add and commit the changes using git
+    subprocess.run(["git", "config", "--global", "user.name", '"Gaurav Jangid"'])
+    subprocess.run(["git", "config", "--global", "user.email", '"gauravjangid7300@gmail.com"'])
     subprocess.run(["git", "add", "Readme.md"])
     subprocess.run(["git", "commit", "-m", "Update profile image URL in README"])
     subprocess.run(["git", "push"])
