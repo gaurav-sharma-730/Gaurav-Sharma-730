@@ -57,7 +57,7 @@ def update_readme_with_new_image_url():
     )
 
     print("Updated README content:")
-    print(updated_content)  # Debug: Print updated content
+    print(new_image_url)  # Debug: Print updated content
 
     # Write the updated content back to README.md if there are changes
     if content != updated_content:
