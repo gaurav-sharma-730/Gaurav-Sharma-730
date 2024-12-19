@@ -9,7 +9,7 @@
 </div>
 <hr />
 <div align="center" >
----------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img  style="margin: 10px" align="center" src="https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png?v=1734483539" alt="Badge">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">--------
+---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img  style="margin: 10px" align="center" src="https://tryhackme-badges.s3.amazonaws.com/Gauravjangid.png?v=1734569990" alt="Badge">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">--------
 <hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-jangid-730&label=Profile%20views&color=red&style=flat-square" alt="gaurav-jangid-730" /> </p>
 <img align="right" src="giphy.webp">
