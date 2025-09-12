@@ -119,9 +119,9 @@
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/authentication.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/injection.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/streak90.svg" alt="Badges" height="150" width="150" /></a>
-<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/3milion.svg" alt="Badges" height="150" width="150" /></a>
-<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/advertofcyber5.svg" alt="Badges" height="150" width="150" /></a>
-<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/boogetman3.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/3million.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/adventofcyber5.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/boogeyman3.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/clientsideattack.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/cyberdefenceframework.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/cyberthreatintellegenceblue.svg" alt="Badges" height="150" width="150" /></a>
