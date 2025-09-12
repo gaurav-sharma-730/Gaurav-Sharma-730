@@ -119,6 +119,31 @@
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/authentication.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/injection.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/streak90.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/3milion.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/advertofcyber5.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/boogetman3.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/clientsideattack.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/cyberdefenceframework.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/cyberthreatintellegenceblue.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/digitalforensicsandincidentresponse.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/endpointsecuritymonitoring.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/hack2win.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/httprequestsmuggling.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/ice.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/introtosecurityengineering.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/league-silver.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/managingincidents.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/networkandsystemsecurity.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/networksecurityandtrafficanalysisv2.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/overpass_badge.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/pentestingtools_badge.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/phishing.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/securityawareness.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/securityinthepipeline.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/serversideattack.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/softwaresecurity.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/streak3.svg" alt="Badges" height="150" width="150" /></a>
+<a target="blank"><img align="center" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/Badges/threatsandrisks.svg" alt="Badges" height="150" width="150" /></a>
 <!-- Add more badges as needed -->
 </div>
 <hr />
