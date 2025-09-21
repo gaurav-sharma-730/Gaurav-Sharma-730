@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/banner.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Gaurav-Jangid-730/Gaurav-Jangid-730/blob/main/assest/banner.jpg"></div>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&duration=5000&color=9C0707FF&size=20&center=true&vCenter=true&width=750&lines=I'm+A+Red+Team+Student,+driven+to+uncover+system+vulnerabilities;A+Computer+Engineering+Student+Passionate+About+Securing+Digital+Landscapes;Hacker+At+Heart,+Constantly+Challenging+And+Pushing+Boundaries;Cybersecurity+Enthusiast+With+A+Focus+On+Proactive+Defense+Strategies;Committed+To+Mastering+The+Art+Of+Ethical+Hacking+And+Network+Security;" alt="Computer Engineering Student, Cybersecurity Student"></a>
