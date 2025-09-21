@@ -7,7 +7,7 @@
 </a>
 </div>
 <div align="center" >
-<h3>|---Relentlessly Exploring Offensive Security, Red Teaming, and Ethical Hacking to Secure the Digital World---|</h3>
+<h3>|---Relentlessly Exploring Offensive Security and Red Teaming to Secure the Digital World---|</h3>
 </div>
 <hr />
 <div align="center" >
