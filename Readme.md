@@ -162,7 +162,7 @@
 <hr />
 <div align="center">
     <h3 align="center">📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Sharma-730&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=falsel" alt="Gaurav's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Sharma-730&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false" alt="Gaurav's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Sharma-730&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Sharma-730&theme=shadow_red&hide_border=true" alt="gaurav-Sharma-730" />
 </div>
