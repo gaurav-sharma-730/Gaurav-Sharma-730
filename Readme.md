@@ -94,9 +94,9 @@
 </td></tr></table>
 
 <hr />
+<details>
+<summary><h3>View My TryHackMe Badges 🏅</h3></summary>
 <div align="center">
-<h3 align="center">🏅 TryHackMe Badges</h3>
-<br />
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Sharma-730/Gaurav-Sharma-730/blob/main/Badges/attackingad.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Sharma-730/Gaurav-Sharma-730/blob/main/Badges/blue.svg" alt="Badges" height="150" width="150" /></a>
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Sharma-730/Gaurav-Sharma-730/blob/main/Badges/burpsuite.svg" alt="Badges" height="150" width="150" /></a>
@@ -148,6 +148,7 @@
 <a target="blank"><img align="center" src="https://github.com/Gaurav-Sharma-730/Gaurav-Sharma-730/blob/main/Badges/threatsandrisks.svg" alt="Badges" height="150" width="150" /></a>
 <!-- Add more badges as needed -->
 </div>
+</details>
 <hr />
 
 <div align="center">
