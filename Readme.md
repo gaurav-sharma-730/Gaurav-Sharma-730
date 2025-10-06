@@ -11,7 +11,7 @@
 </div>
 <hr />
 <div align="center" >
----------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------  <a href="https://tryhackme.com/p/Gh0st1nj3ct0r"><img width="400" style="margin: 30px" align="center" src="https://github.com/Gaurav-Sharma-730/tryhackme_profile/blob/main/badge_final.png" alt="Badge"></a>  ---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">--------
+---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------  <a href="https://tryhackme.com/p/Gh0st1nj3ct0r"><img width="400" style="margin: 30px" align="center" src="https://gaurav-sharma-730.github.io/tryhackme_profile/badge_final.png" alt="Badge"></a>  ---------<img width="25" src="https://github.com/user-attachments/assets/ab19d0e4-c818-47ef-985a-2913e2fcb5b7">---------<img width="40" src="https://github.com/user-attachments/assets/fb0f610e-338b-4a01-a1b9-f05fdce05df6">--------
 <hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-Sharma-730&label=Profile%20views&color=red&style=flat-square" alt="gaurav-Sharma-730" /> </p>
 <img align="right" src="giphy.webp">
